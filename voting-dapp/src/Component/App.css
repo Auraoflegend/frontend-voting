@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    justify-content: space-around; /* Adjust spacing between items */
+    padding: 1rem;
+    background-color: #f4f4f4; /* Optional: background color for the nav */
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 5rem; /* Space between the items */
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333; /* Optional: text color for the links */
+  }
+  
+  nav a:hover {
+    text-decoration: underline; /* Optional: underline effect on hover */
+  }
+  

@@ -1,0 +1,41 @@
+.result-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    font-size: 2em;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .result-timer {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .result-timer p {
+    font-size: 1.2em;
+    color: #555;
+  }
+  
+  .winner {
+    text-align: center;
+  }
+  
+  .winner h2 {
+    font-size: 1.5em;
+    color: #4caf50;
+    margin-bottom: 10px;
+  }
+  
+  .winner p {
+    font-size: 1.2em;
+    color: #333;
+  }
+  
