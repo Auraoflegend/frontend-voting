@@ -23,6 +23,8 @@ Change into the project directory:
 
 cd path/to/your/project
 3. Install Dependencies
+npm install
+
 Install the necessary dependencies for the project:
 ```
 
